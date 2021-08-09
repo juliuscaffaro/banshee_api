@@ -1,0 +1,12 @@
+package com.example.banshee.dto.interiorDto;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+public
+class DestinyMemberships{
+    private float membershipType;
+    private String membershipId;
+}
