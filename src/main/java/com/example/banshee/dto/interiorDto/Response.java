@@ -11,5 +11,6 @@ public class Response {
     private Profile profile;
     private ArrayList<DestinyMemberships> destinyMemberships = new ArrayList< DestinyMemberships >();
     private Inventory inventory;
+    private Inventory equipment;
 
 }

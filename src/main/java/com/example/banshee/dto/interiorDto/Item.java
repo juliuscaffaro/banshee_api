@@ -8,8 +8,8 @@ import java.util.List;
 @Getter
 @Setter
 public class Item {
-    public Object itemHash;
-    public String itemInstanceId;
-    public int location;
+    private String itemHash;
+    private String itemInstanceId;
+    private int location;
 
 }
